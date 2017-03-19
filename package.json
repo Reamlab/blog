@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jssrc/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reamlab/blog.git"
+  },
+  "author": "Ilya Razuvaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reamlab/blog/issues"
+  },
+  "homepage": "https://github.com/Reamlab/blog#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
